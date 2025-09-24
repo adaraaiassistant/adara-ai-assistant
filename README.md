@@ -68,8 +68,6 @@ Tips:
 
 ## Screenshots & GIFs
 
-> Place these GIFs in `docs/media/` (or update the paths to where you host them).
-
 **Docs – sidebar + starter actions**
 ![Adara Docs Sidebar](docs/media/contractdoc1.gif)
 
