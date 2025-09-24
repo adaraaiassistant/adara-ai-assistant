@@ -144,9 +144,9 @@ We don’t store your full documents. Requests are processed to generate outputs
 
 ## Contact & support
 
-* Email: **[hello@adarasolutions.co.uk](mailto:hello@adarasolutions.co.uk)**
-* Website: **[https://adarasolutions.co.uk](https://adarasolutions.co.uk)**
-* Twitter/X: **@adaraiassistant**
+* Email: **[hello@adaraaiassistant.com](mailto:hello@adaraaiassistant.com)**
+* Website: **[https://adaraaiassistant.com](https://adaraaiassistant.com)**
+* Twitter/X: **@adarassistant**
 * Feature request or bug? Open a GitHub **Issue**.
 
 ---
@@ -184,7 +184,7 @@ We don’t store your full documents. Requests are processed to generate outputs
 
 ### Badges (optional)
 
-[![Marketplace](https://img.shields.io/badge/Install-Google%20Workspace%20Marketplace-4285F4)]({MARKETPLACE_LINK})
+[![Marketplace](https://img.shields.io/badge/Install-Google%20Workspace%20Marketplace-4285F4)]([{MARKETPLACE_LINK}](https://www.adaraaiassistant.com/))
 ![Made with Apps Script](https://img.shields.io/badge/Apps%20Script-V8-blue)
 ![Models](https://img.shields.io/badge/Models-Gemini%202.5%20Pro%20%7C%20GPT--5-purple)
 
