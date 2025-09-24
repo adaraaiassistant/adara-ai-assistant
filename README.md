@@ -84,7 +84,7 @@ Tips:
 ![Slides Start](slide1.gif)
 
 **Slides – build a slide and add image**
-![Slides Image Insert](docs/media/projslidescotland2.gif)
+![Slides Image Insert](projslidescotland2.gif)
 
 ---
 
