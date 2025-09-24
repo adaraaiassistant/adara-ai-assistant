@@ -81,7 +81,7 @@ Tips:
 ![Chart from Data](docs/media/chartsheetp2.gif)
 
 **Slides – open & start**
-![Slides Start](docs/media/slide1.gif)
+![Slides Start](slide1.gif)
 
 **Slides – build a slide and add image**
 ![Slides Image Insert](docs/media/projslidescotland2.gif)
