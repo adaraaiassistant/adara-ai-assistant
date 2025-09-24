@@ -69,16 +69,16 @@ Tips:
 ## Screenshots & GIFs
 
 **Docs – sidebar + starter actions**
-![Adara Docs Sidebar](docs/media/contractdoc1.gif)
+![Adara Docs Sidebar](contractdoc1.gif)
 
 **Docs – rewrite selected text**
-![Rewrite Text](docs/media/rewritedocproj2.gif)
+![Rewrite Text](rewritedocproj2.gif)
 
 **Sheets – starter view + actions**
-![Sheets Sidebar](docs/media/sheetOne.gif)
+![Sheets Sidebar](sheetOne.gif)
 
 **Sheets – create a chart from selection**
-![Chart from Data](docs/media/chartsheetp2.gif)
+![Chart from Data](chartsheetp2.gif)
 
 **Slides – open & start**
 ![Slides Start](slide1.gif)
