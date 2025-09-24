@@ -88,6 +88,15 @@ Tips:
 
 ---
 
+![Adara Docs Sidebar](docs/media/contractdoc1.gif)
+![Rewrite Text](docs/media/rewritedocproj2.gif)
+![Sheets Sidebar](docs/media/sheetOne.gif)       
+![Chart from Data](docs/media/chartsheetp2.gif)
+![Slides Start](docs/media/slide1.gif)
+![Slides Image Insert](docs/media/projslidescotland2.gif)
+
+
+---
 ## Pricing & credits
 
 * Every account starts with a **free credit allocation** that **refills monthly**.
